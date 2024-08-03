@@ -1,0 +1,8 @@
+Base de Donnée:
+    Type: mysql
+    Host: localhost
+    Port: 3306
+    User: root
+    Password: root
+    Database: test
+
